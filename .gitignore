@@ -1,0 +1,6 @@
+islr.pdf
+.venv/
+__pycache__/
+.indices/
+venv/
+.env
